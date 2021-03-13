@@ -1,9 +1,5 @@
-### Hi there 👋
-
-<!--
-**mfirdausj/mfirdausj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hello there, my name is Firdaus(https://github.com/mfirdausj/mfirdausj/raw/master/assets/wave.gif)
+<!-- ### Hello there, my name is [Firdaus!]() -->
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +9,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
