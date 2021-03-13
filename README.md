@@ -1,4 +1,4 @@
-### Hello there, my name is Firdaus(https://github.com/mfirdausj/mfirdausj/raw/master/assets/wave.gif)
+### Hello there, my name is Firdaus<img src="https://github.com/mfirdausj/mfirdausj/raw/main/assets/wave.gif" width="30px">
 <!-- ### Hello there, my name is [Firdaus!]() -->
 
 - 🔭 I’m currently working on ...
