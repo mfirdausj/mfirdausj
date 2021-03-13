@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/mfirdausj/mfirdausj/main/readme_header.png "Header")]()
+<!-- [![Header](https://raw.githubusercontent.com/mfirdausj/mfirdausj/main/readme_header.png "Header")]() -->
 
 ## Hello there! I'm Firdaus <img src="https://raw.githubusercontent.com/mfirdausj/mfirdausj/main/assets/wave.gif" width="30px">
 <!-- ### Hello there, my name is [Firdaus!]() -->
