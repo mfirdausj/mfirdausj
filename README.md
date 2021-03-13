@@ -3,7 +3,7 @@
 ## Hello there! I'm Firdaus <img src="https://raw.githubusercontent.com/mfirdausj/mfirdausj/main/assets/wave.gif" width="30px">
 <!-- ### Hello there, my name is [Firdaus!]() -->
 - 🌱 I’m currently learning Python <code><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></code>
-- 📫 How to reach me: <code><a href="https://www.linkedin.com/in/mohdfirdausbinjohari/ target='_blank'"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></code>
+- 📫 How to reach me: <code><a href="https://www.linkedin.com/in/mohdfirdausbinjohari/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></code>
 
 ## Languages:
 <code><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
